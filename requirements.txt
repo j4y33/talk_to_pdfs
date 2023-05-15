@@ -1,0 +1,9 @@
+langchain 
+pinecone-client
+unstructured
+pdfminer.six
+openai
+tiktoken
+ndg-httpsclient
+pyopenssl
+pyasn1
